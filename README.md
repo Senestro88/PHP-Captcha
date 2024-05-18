@@ -1,1 +1,2 @@
-# PHP-Captcha
+# PHP Captcha
+FREE PHP Captcha
